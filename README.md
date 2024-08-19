@@ -1,6 +1,8 @@
-# Getting Started with your Dynatrace App
+# Dynatrace Tag Applier Key Request
 
-This project was bootstrapped with Dynatrace App Toolkit.
+This project was bootstrapped with Dynatrace App Toolkit. It's a simple app to apply and remove tags from Service Key Requests.
+![image](https://github.com/user-attachments/assets/875b95ae-26ba-4be2-aadc-06b39fb7bfab)
+
 
 It uses React in combination with TypeScript, to provide great developer experience.
 
