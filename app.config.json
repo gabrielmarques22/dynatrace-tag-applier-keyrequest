@@ -1,0 +1,10 @@
+{
+  "environmentUrl": "https://bwm98081.apps.dynatrace.com/",
+  "app": {
+    "name": "Tag Applier",
+    "version": "1.0.0",
+    "description": "An app to help you tag Service Key Requests",
+    "id": "my.tag.applier",  
+    "scopes": [{ "name": "storage:logs:read", "comment": "default template" }, { "name": "environment-api:entities:write", "comment": "default template" }, { "name": "storage:entities:read", "comment": "default template" }, { "name": "storage:buckets:read", "comment": "default template" }]
+  }
+}
